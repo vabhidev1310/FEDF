@@ -1,0 +1,6 @@
+{
+  "name": "MedBook",
+  "description": "Doctor Appointment Booking System with patients and doctors modules",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
